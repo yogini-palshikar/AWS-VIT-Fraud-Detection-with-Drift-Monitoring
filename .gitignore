@@ -1,0 +1,12 @@
+# Ignore data and models
+data/
+*.csv
+*.zip
+models/
+*.pkl
+*.h5
+
+# Ignore Python environments and cache
+venv/
+__pycache__/
+.ipynb_checkpoints/
