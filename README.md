@@ -1,4 +1,4 @@
-# Adaptive Fraud Detection System: Dual-Engine Architecture & Drift Management
+# Fraud Detection System: Dual-Engine Architecture & Drift Management
 
 This repository contains an end-to-end, production-style machine learning pipeline for fraud detection, built on the IEEE-CIS Fraud Detection dataset. It features a dual-engine architecture, financial cost-based decision logic, and an automated Population Stability Index (PSI) monitor that triggers incremental online retraining when concept drift occurs.
 
